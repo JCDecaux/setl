@@ -98,7 +98,7 @@
         <maven.site.plugin.version>3.9.1</maven.site.plugin.version>
         <nexus.staging.maven.plugin.version>1.6.8</nexus.staging.maven.plugin.version>
         <typesafe.config.version>1.4.2</typesafe.config.version>
-        <hudi.version>0.11.0</hudi.version>
+        <hudi.version>0.15.0</hudi.version>
         <hudi.bundle.version>spark3.2-bundle</hudi.bundle.version>
         <spark.avro.version>3.0.2</spark.avro.version>
     </properties>
